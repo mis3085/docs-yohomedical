@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smp.yohomedical.com.com/sitemap.xml
