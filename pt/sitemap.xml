@@ -58,6 +58,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.yohomedical.com/zh-tw/company-profile/authority-agency/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="pt"
       href="https://smp.yohomedical.com/pt/company-profile/authority-agency/"
     />
@@ -175,6 +180,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.yohomedical.com/ko/company-profile/certificates/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.yohomedical.com/zh-tw/company-profile/certificates/"
     />
     <xhtml:link
       rel="alternate"
@@ -298,6 +308,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.yohomedical.com/zh-tw/latest-news-2/media-release-5/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="pt"
       href="https://smp.yohomedical.com/pt/latest-news-2/media-release-5/"
     />
@@ -338,11 +353,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ar"
-      href="https://smp.yohomedical.com/ar/contactus/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="hi"
       href="https://smp.yohomedical.com/hi/contactus/"
     />
@@ -355,6 +365,16 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.yohomedical.com/ko/contactus/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://smp.yohomedical.com/ar/contactus/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.yohomedical.com/zh-tw/contactus/"
     />
     <xhtml:link
       rel="alternate"
@@ -418,6 +438,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.yohomedical.com/zh-tw/shop/skin-care-6/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="pt"
       href="https://smp.yohomedical.com/pt/shop/skin-care-6/"
     />
@@ -478,68 +503,13 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.yohomedical.com/zh-tw/shop/mom-baby-care-5/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="pt"
       href="https://smp.yohomedical.com/pt/shop/mom-baby-care-5/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.yohomedical.com/pt/oem-odm-nonwoven/service-details/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.yohomedical.com/en/oem-odm-nonwoven/service-details/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.yohomedical.com/de/oem-odm-nonwoven/service-details/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.yohomedical.com/es/oem-odm-nonwoven/service-details/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.yohomedical.com/fr/oem-odm-nonwoven/service-details/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.yohomedical.com/it/oem-odm-nonwoven/service-details/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.yohomedical.com/ru/oem-odm-nonwoven/service-details/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.yohomedical.com/ar/oem-odm-nonwoven/service-details/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.yohomedical.com/hi/oem-odm-nonwoven/service-details/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.yohomedical.com/ja/oem-odm-nonwoven/service-details/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.yohomedical.com/ko/oem-odm-nonwoven/service-details/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.yohomedical.com/pt/oem-odm-nonwoven/service-details/"
     />
   </url>
   <url>
@@ -598,128 +568,13 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.yohomedical.com/zh-tw/shop/household-pets-7/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="pt"
       href="https://smp.yohomedical.com/pt/shop/household-pets-7/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.yohomedical.com/pt/oem-odm-nonwoven/manufacturing-productivity/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.yohomedical.com/en/oem-odm-nonwoven/manufacturing-productivity/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.yohomedical.com/de/oem-odm-nonwoven/manufacturing-productivity/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.yohomedical.com/es/oem-odm-nonwoven/manufacturing-productivity/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.yohomedical.com/fr/oem-odm-nonwoven/manufacturing-productivity/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.yohomedical.com/it/oem-odm-nonwoven/manufacturing-productivity/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.yohomedical.com/ru/oem-odm-nonwoven/manufacturing-productivity/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.yohomedical.com/ar/oem-odm-nonwoven/manufacturing-productivity/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.yohomedical.com/hi/oem-odm-nonwoven/manufacturing-productivity/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.yohomedical.com/ja/oem-odm-nonwoven/manufacturing-productivity/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.yohomedical.com/ko/oem-odm-nonwoven/manufacturing-productivity/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.yohomedical.com/pt/oem-odm-nonwoven/manufacturing-productivity/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.yohomedical.com/pt/oem-odm-nonwoven/oem-odm-format/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.yohomedical.com/en/oem-odm-nonwoven/oem-odm-format/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.yohomedical.com/de/oem-odm-nonwoven/oem-odm-format/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.yohomedical.com/es/oem-odm-nonwoven/oem-odm-format/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.yohomedical.com/fr/oem-odm-nonwoven/oem-odm-format/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.yohomedical.com/it/oem-odm-nonwoven/oem-odm-format/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.yohomedical.com/ru/oem-odm-nonwoven/oem-odm-format/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.yohomedical.com/hi/oem-odm-nonwoven/oem-odm-format/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.yohomedical.com/ko/oem-odm-nonwoven/oem-odm-format/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.yohomedical.com/ja/oem-odm-nonwoven/oem-odm-format/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.yohomedical.com/ar/oem-odm-nonwoven/oem-odm-format/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.yohomedical.com/pt/oem-odm-nonwoven/oem-odm-format/"
     />
   </url>
   <url>
@@ -778,128 +633,13 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.yohomedical.com/zh-tw/shop/industry-8/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="pt"
       href="https://smp.yohomedical.com/pt/shop/industry-8/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.yohomedical.com/pt/oem-odm-nonwoven/research-development/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.yohomedical.com/en/oem-odm-nonwoven/research-development/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.yohomedical.com/de/oem-odm-nonwoven/research-development/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.yohomedical.com/es/oem-odm-nonwoven/research-development/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.yohomedical.com/fr/oem-odm-nonwoven/research-development/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.yohomedical.com/it/oem-odm-nonwoven/research-development/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.yohomedical.com/ru/oem-odm-nonwoven/research-development/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.yohomedical.com/ar/oem-odm-nonwoven/research-development/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.yohomedical.com/hi/oem-odm-nonwoven/research-development/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.yohomedical.com/ja/oem-odm-nonwoven/research-development/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.yohomedical.com/ko/oem-odm-nonwoven/research-development/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.yohomedical.com/pt/oem-odm-nonwoven/research-development/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.yohomedical.com/pt/contactus/instruction/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.yohomedical.com/en/contactus/instruction/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.yohomedical.com/de/contactus/instruction/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.yohomedical.com/es/contactus/instruction/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.yohomedical.com/fr/contactus/instruction/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.yohomedical.com/it/contactus/instruction/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.yohomedical.com/ru/contactus/instruction/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.yohomedical.com/ar/contactus/instruction/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.yohomedical.com/hi/contactus/instruction/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.yohomedical.com/ja/contactus/instruction/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.yohomedical.com/ko/contactus/instruction/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.yohomedical.com/pt/contactus/instruction/"
     />
   </url>
   <url>
@@ -955,6 +695,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.yohomedical.com/ko/contactus/global-locations/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.yohomedical.com/zh-tw/contactus/global-locations/"
     />
     <xhtml:link
       rel="alternate"
@@ -1018,68 +763,13 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.yohomedical.com/zh-tw/shop/medical-4/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="pt"
       href="https://smp.yohomedical.com/pt/shop/medical-4/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.yohomedical.com/pt/oem-odm-nonwoven/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.yohomedical.com/en/oem-odm-nonwoven/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.yohomedical.com/de/oem-odm-nonwoven/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.yohomedical.com/es/oem-odm-nonwoven/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.yohomedical.com/fr/oem-odm-nonwoven/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.yohomedical.com/it/oem-odm-nonwoven/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.yohomedical.com/ru/oem-odm-nonwoven/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.yohomedical.com/ar/oem-odm-nonwoven/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.yohomedical.com/hi/oem-odm-nonwoven/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.yohomedical.com/ko/oem-odm-nonwoven/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.yohomedical.com/ja/oem-odm-nonwoven/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.yohomedical.com/pt/oem-odm-nonwoven/"
     />
   </url>
   <url>
@@ -1138,128 +828,13 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.yohomedical.com/zh-tw/company-profile/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="pt"
       href="https://smp.yohomedical.com/pt/company-profile/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.yohomedical.com/pt/contactus/faqs/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.yohomedical.com/en/contactus/faqs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.yohomedical.com/de/contactus/faqs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.yohomedical.com/es/contactus/faqs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.yohomedical.com/fr/contactus/faqs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.yohomedical.com/it/contactus/faqs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.yohomedical.com/ru/contactus/faqs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.yohomedical.com/ar/contactus/faqs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.yohomedical.com/hi/contactus/faqs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.yohomedical.com/ja/contactus/faqs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.yohomedical.com/ko/contactus/faqs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.yohomedical.com/pt/contactus/faqs/"
-    />
-  </url>
-  <url>
-    <loc>https://smp.yohomedical.com/pt/oem-odm-nonwoven/quality-policy/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://smp.yohomedical.com/en/oem-odm-nonwoven/quality-policy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="de"
-      href="https://smp.yohomedical.com/de/oem-odm-nonwoven/quality-policy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://smp.yohomedical.com/es/oem-odm-nonwoven/quality-policy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://smp.yohomedical.com/fr/oem-odm-nonwoven/quality-policy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://smp.yohomedical.com/it/oem-odm-nonwoven/quality-policy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://smp.yohomedical.com/ru/oem-odm-nonwoven/quality-policy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ar"
-      href="https://smp.yohomedical.com/ar/oem-odm-nonwoven/quality-policy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hi"
-      href="https://smp.yohomedical.com/hi/oem-odm-nonwoven/quality-policy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://smp.yohomedical.com/ja/oem-odm-nonwoven/quality-policy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ko"
-      href="https://smp.yohomedical.com/ko/oem-odm-nonwoven/quality-policy/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="https://smp.yohomedical.com/pt/oem-odm-nonwoven/quality-policy/"
     />
   </url>
   <url>
@@ -1315,6 +890,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.yohomedical.com/ko/company-profile/award/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.yohomedical.com/zh-tw/company-profile/award/"
     />
     <xhtml:link
       rel="alternate"
@@ -1378,6 +958,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.yohomedical.com/zh-tw/shop/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="pt"
       href="https://smp.yohomedical.com/pt/shop/"
     />
@@ -1418,11 +1003,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="hi"
-      href="https://smp.yohomedical.com/hi/company-profile/csr/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ja"
       href="https://smp.yohomedical.com/ja/company-profile/csr/"
     />
@@ -1435,6 +1015,11 @@
       rel="alternate"
       hreflang="ar"
       href="https://smp.yohomedical.com/ar/company-profile/csr/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hi"
+      href="https://smp.yohomedical.com/hi/company-profile/csr/"
     />
     <xhtml:link
       rel="alternate"
@@ -1498,6 +1083,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.yohomedical.com/zh-tw/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="pt"
       href="https://smp.yohomedical.com/pt/"
     />
@@ -1555,6 +1145,11 @@
       rel="alternate"
       hreflang="ko"
       href="https://smp.yohomedical.com/ko/latest-news-2/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="https://smp.yohomedical.com/zh-tw/latest-news-2/"
     />
     <xhtml:link
       rel="alternate"
